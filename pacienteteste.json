@@ -2,30 +2,36 @@
     {
         "nome": "João Silva",
         "cpf": "123.456.789-00",
-        "dataConsulta": "2022-01-01"
+        "dataConsulta": "2022-01-01",
+        "dataNascimento": "1990-01-01"
     },
     {
         "nome": "Maria Santos",
         "cpf": "987.654.321-00",
-        "dataConsulta": "2022-01-02"
+        "dataConsulta": "2022-01-02",
+        "dataNascimento": "1990-01-01"
     },
     {
         "nome": "Pedro Oliveira",
         "cpf": "456.789.123-00",
-        "dataConsulta": "2022-01-03"
+        "dataConsulta": "2022-01-03",
+        "dataNascimento": "1990-01-01"
     },{
         "nome": "Marcos Paulo dwa dawd awd aw d",
         "cpf": "456.789.123-00",
-        "dataConsulta": "2022-01-03"
+        "dataConsulta": "2022-01-03",
+        "dataNascimento": "1990-01-01"
     },
     {
         "nome": "dwadawdawdawdawd",
         "cpf": "456.789.123-00",
-        "dataConsulta": "2022-01-03"
+        "dataConsulta": "2022-01-03",
+        "dataNascimento": "1990-01-01"
     },
     {
         "nome": "teste 213 23r3423443432",
         "cpf": "456.789.123-00",
-        "dataConsulta": "2022-01-03"
+        "dataConsulta": "2022-01-03",
+        "dataNascimento": "1990-01-01"
     }
 ]
